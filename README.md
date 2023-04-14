@@ -16,4 +16,4 @@ git clone https://github.com/G2Jose/synthwave-84-obsidian-theme.git
 cp synthwave-84-obsidian-theme/theme.css YOUR_VAULT_DIRECTORY/.obsidian/themes/synthwave-84.css
 ```
 
-3. To use the new theme, go to `Settings -> Appearance -> Themes -> synthwave-84`
+3. To use the new theme, open Obsidian and go to `Settings -> Appearance -> Themes -> synthwave-84`
