@@ -17,3 +17,7 @@ cp synthwave-84-obsidian-theme/theme.css YOUR_VAULT_DIRECTORY/.obsidian/themes/s
 ```
 
 3. To use the new theme, open Obsidian and go to `Settings -> Appearance -> Themes -> synthwave-84`
+
+### Prior art
+
+Inspired by [Rob Owen's synthwave-vscode](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) and [Marco Luzi's `obsidian-synthwave`](https://github.com/marcoluzi/obsidian-synthwave)
