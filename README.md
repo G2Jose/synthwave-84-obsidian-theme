@@ -4,7 +4,7 @@
 
 ## How to install
 
-### From Obsidian
+### From Obsidian (Recommended)
 
 1. Go to Obsidian Settings.
 2. Go to `Appearance -> Themes -> Manage`
