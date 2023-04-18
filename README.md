@@ -29,4 +29,4 @@ cp synthwave-84-obsidian-theme/theme.css YOUR_VAULT_DIRECTORY/.obsidian/themes/s
 
 ## Acknowledgements
 
-Inspired by [Rob Owen's synthwave-vscode](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) and [Marco Luzi's `obsidian-synthwave`](https://github.com/marcoluzi/obsidian-synthwave)
+Inspired by [Rob Owen's `synthwave-vscode`](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) and [Marco Luzi's `obsidian-synthwave`](https://github.com/marcoluzi/obsidian-synthwave)
